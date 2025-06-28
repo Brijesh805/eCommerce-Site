@@ -29,7 +29,7 @@ if ( (!isset($_REQUEST['email'])) || (isset($_REQUEST['token'])) )
 
 <div class="page-banner" style="background-color:#444;">
     <div class="inner">
-        <h1>Registration Successfuls</h1>
+        <h1>Registration Successfulss</h1>
     </div>
 </div>
 
